@@ -6,7 +6,7 @@ There also used some api
 [News api](https://newsapi.org)
 [Type fit api](https://type.fit/api/quotes)
 
-[Demo].(https://cloud-3a805.firebaseapp.com)
+[Demo](https://cloud-3a805.firebaseapp.com)
 
 **Installation**
 
